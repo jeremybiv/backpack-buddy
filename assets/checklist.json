@@ -1,0 +1,500 @@
+[
+{
+"title": "MT900 Symbium 70+10",
+"category": "Backpack & containers",
+"link": "https://www.decathlon.fr/p/sac-a-dos-de-trekking-homme-70-10l-mt900-symbium//R-p-342070?mc=8751964",
+"price": 179.99,
+"weight": 2780,
+"quantity": 1,
+"checked": false ,"notNeeded": false ,"notNeeded": false
+},
+{
+"title": "2x 15L Compression bags",
+"category": "Backpack & containers",
+"link": "https://www.decathlon.fr/tous-les-sports/randonnee-trek/accessoires-sacs",
+"price": 0,
+"weight": 140,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "7L drybag 7L x2",
+"category": "Backpack & containers",
+"link": "https://www.decathlon.fr/tous-les-sports/randonnee-trek/accessoires-sacs",
+"price": 0,
+"weight": 45,
+"quantity": 2,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Wash bag light wash bag",
+"category": "Backpack & containers",
+"link": "https://www.decathlon.fr/p/trousse-de-toilette-de-trekking-pliable-ultra-light//R-p-173360",
+"price": 9.99,
+"weight": 43,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT500 Poles",
+"category": "Poles",
+"link": "https://www.decathlon.fr/p/1-baton-reglage-rapide-et-precis-de-randonnee-mt500-rouge//R-p-173277", 
+"price": 17.99, "weight": 240, "quantity": 2, "checked": false ,"notNeeded": false ,"image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"
+},
+{ "title": "MT500 2P dome tent", "category": "Sleep system", "link": "https://www.decathlon.fr/p/tente-dome-de-trekking-2-places-mt500//R-p-310893", "price": 119.99, "weight": 2850, "quantity": 1, "checked": false ,"notNeeded": false ,"image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"},
+{ "title": "MT500 0°C sleeping bag", "category": "Sleep system", "link": "https://www.decathlon.fr/p/sac-de-couchage-de-trekking-mt500-0-c-synthetique//R-p-346447", 
+"price": 89.99, "weight": 1350, "quantity": 1, "checked": false ,"notNeeded": false ,"image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"},
+{ "title": "MT900 air insulated sleeping mat", "category": "Sleep system", "link": "", "price": 0, "weight": 615, "quantity": 1, "checked": false ,"notNeeded": false ,"image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"},
+{ "title": "MT500 Sit pad", "category": "Sleep system", "link": "", "price": 0, "weight": 60, "quantity": 1, "checked": false ,"notNeeded": false ,"image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"},
+{
+    "title": "MT500 Portable Stove",
+    "category": "Cooking",
+    "link": "https://www.decathlon.fr/p/rechaud-a-gaz-portable-piezo-mt500/_/R-p-8540739",
+    "price": 29.99,
+    "weight": 85,
+    "quantity": 1,
+    "checked": false ,"notNeeded": false,
+    "image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"
+},
+{
+"title": "Gaz canister 230g",
+"category": "Cooking",
+"link": "https://www.decathlon.fr/p/cartouche-gaz-230-g//R-p-8462740",
+"price": 0,
+"weight": 394,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Wind shield Forclaz MT500",
+"category": "Cooking",
+"link": "",
+"price": 0,
+"weight": 150,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Cooking set 1P set",
+"category": "Cooking",
+"link": "**https://www.decathlon.fr/p/popote-inox-de-trekking-1-personne-mt500//R-p-174672",
+"price": 14.99,
+"weight": 0,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Wood foldable knife",
+"category": "Cooking",
+"link": "",
+"price": 0,
+"weight": 0,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Lighter (Briquet) Bic mini",
+"category": "Cooking",
+"link": "",
+"price": 0,
+"weight": 14,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT500 merino T-shirt",
+"category": "Clothing",
+"link": "https://www.decathlon.fr/p/t-shirt-merinos-montagne-mh500-homme//R-p-8550935",
+"price": 0,
+"weight": 150,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT900 seamless T-shirt",
+"category": "Clothing",
+"link": "",
+"price": 0,
+"weight": 160,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT500 Modul pant",
+"category": "Clothing",
+"link": "",
+"price": 0,
+"weight": 460,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Merinos Underwear (x1)",
+"category": "Clothing",
+"link": "",
+"price": 0,
+"weight": 80,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Merinos Underwear (x3)",
+"category": "Clothing",
+"link": "",
+"price": 0,
+"weight": 80,
+"quantity": 3,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Quechua HIKE 900 Socks 2",
+"category": "Clothing",
+"link": "",
+"price": 0,
+"weight": 48,
+"quantity": 2,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT900 Shoes Men",
+"category": "Clothing",
+"link": "**https://www.decathlon.fr/p/chaussure-de-randonnee-mh500-noire-grise//R-p-348231",
+"price": 0,
+"weight": 1400,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT900 Merinos Hoodie",
+"category": "Clothing",
+"link": "",
+"price": 0,
+"weight": 365,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Simond MT100 Hood Down jacket",
+"category": "Clothing",
+"link": "",
+"price": 0,
+"weight": 338,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT500 black Waterproof jacket",
+"category": "Clothing",
+"link": "https://www.decathlon.fr/p/vestement-impermeable-intemperies-mh500-noir//R-p-8561683",
+"price": 0,
+"weight": 530,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT500 rainpant Waterproof overpant M",
+"category": "Clothing",
+"link": "**https://www.decathlon.fr/p/pantalon-de-pluie-intemperies-mh500-mixte//R-p-8583202",
+"price": 0,
+"weight": 380,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Simond MT500 Merinos Warm legging M",
+"category": "Clothing",
+"link": "",
+"price": 0,
+"weight": 190,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT500 Gloves (Gants)",
+"category": "Clothing",
+"link": "https://www.decathlon.fr/p/gants-trekking-chaud-homme-mh900//R-p-8532980",
+"price": 0,
+"weight": 70,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT100 Neckwarmer",
+"category": "Clothing",
+"link": "https://www.decathlon.fr/p/ tour-de-cou-polar/ _ /R-p-8532981",
+"price": 0,
+"weight": 54,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT500 Merinos Beanie",
+"category": "Clothing",
+"link": "**https://www.decathlon.fr/p/bonnet-d-alpinisme-simond-mti-250//R-p-8518083",
+"price": 0,
+"weight": 34,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT500 Sandales bivouac",
+"category": "Clothing",
+"link": "",
+"price": 0,
+"weight": 356,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Travel 500 black Cap",
+"category": "Clothing",
+"link": "https://www.decathlon.fr/p/cap-travel-500//R-p-8562573",
+"price": 0,
+"weight": 73,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "HL900 600lm Headlamp",
+"category": "Electronique",
+"link": "**https://www.decathlon.fr/p/lampe-torche-trek900-rayon-600-lumen//R-p-8533160",
+"price": 0,
+"weight": 105,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Charger",
+"category": "Electronique",
+"link": "",
+"price": 0,
+"weight": 20,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Phone cable (Câble de téléphone)",
+"category": "Electronique",
+"link": "",
+"price": 0,
+"weight": 10,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Headlamp cable (USB C)",
+"category": "Electronique",
+"link": "",
+"price": 0,
+"weight": 5,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Powerbank biolite 6000mAh",
+"category": "Electronique",
+"link": "",
+"price": 0,
+"weight": 165,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MT500 10W Solar panel",
+"category": "Electronique",
+"link": "",
+"price": 0,
+"weight": 300,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Phone",
+"category": "Electronique",
+"link": "",
+"price": 0,
+"weight": 162,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Savon multipurpose soap",
+"category": "Hygiène & first aid",
+"link": "https://www.decathlon.fr/p/savon-de-camping-simond//R-p-8556920",
+"price": 0,
+"weight": 100,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Tooth brush normal",
+"category": "Hygiène & first aid",
+"link": "",
+"price": 0,
+"weight": 15,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Tooth pasta (Dentifrice)",
+"category": "Hygiène & first aid",
+"link": "",
+"price": 0,
+"weight": 18,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Toilet paper",
+"category": "Hygiène & first aid",
+"link": "",
+"price": 0,
+"weight": 5,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Naibaiji Light towel",
+"category": "Hygiène & first aid",
+"link": "**https://www.decathlon.fr/p/serviette-ultralight-naibaiji//R-p-8586080",
+"price": 0,
+"weight": 90,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Decathlon stick 5 Sunscreen",
+"category": "Hygiène & first aid",
+"link": "https://www.decathlon.fr/p/creme-solaire-stick-fps50//R-p-8400931",
+"price": 0,
+"weight": 25,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Forclaz 500 UL First aid kit",
+"category": "Hygiène & first aid",
+"link": "**https://www.decathlon.fr/p/trousse-premiers-secours-forclaz//R-p-8585276",
+"price": 0,
+"weight": 130,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Forclaz travel Night mask",
+"category": "Hygiène & first aid",
+"link": "https://www.decathlon.fr/p/masque-nuit-forclaz//R-p-8560220",
+"price": 0,
+"weight": 80,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Alvis MK universel Ear plugs",
+"category": "Hygiène & first aid",
+"link": "**https://www.decathlon.fr/p/bouchons-d-oreille-universels-alvis//R-p-8487668",
+"price": 0,
+"weight": 7,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Waterblader 2 liters",
+"category": "Nutrition & hydration for 4 days",
+"link": "https://www.decathlon.fr/p/poche-a-eau-forclaz-ultra-s-2-litres//R-p-8540618",
+"price": 0,
+"weight": 2000,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Quechua inox 1L Water bottle",
+"category": "Nutrition & hydration for 4 days",
+"link": "**https://www.decathlon.fr/p/bidon-isotherme-1-litre//R-p-8540635",
+"price": 0,
+"weight": 233,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "MSR filtration pump Filtration kit",
+"category": "Nutrition & hydration for 4 days",
+"link": "https://www.decathlon.fr/p/pompe-filtration-eau-portable/_/R-p-8606552",
+"price": 0,
+"weight": 142,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Freeze-dried meals 4x",
+"category": "Nutrition & hydration for 4 days",
+"link": "https://www.decathlon.fr/tous-les-sports/bivouac/plats-cuisines-et-electrolytes-nutrition",
+"price": 0,
+"weight": 120,
+"quantity": 4,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Freeze-dried breakfasts 4x",
+"category": "Nutrition & hydration for 4 days",
+"link": "https://www.decathlon.fr/tous-les-sports/bivouac/plats-cuisines-et-electrolytes-nutrition",
+"price": 0,
+"weight": 100,
+"quantity": 4,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Freeze-dried soup 4x",
+"category": "Nutrition & hydration for 4 days",
+"link": "https://www.decathlon.fr/tous-les-sports/bivouac/plats-cuisines-et-electrolytes-nutrition",
+"price": 0,
+"weight": 50,
+"quantity": 4,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Snacks for 4 days",
+"category": "Nutrition & hydration for 4 days",
+"link": "",
+"price": 0,
+"weight": 500,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Trailer mix for 4 days",
+"category": "Nutrition & hydration for 4 days",
+"link": "",
+"price": 0,
+"weight": 500,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Coffee & tea for 2 weeks",
+"category": "Nutrition & hydration for 4 days",
+"link": "",
+"price": 0,
+"weight": 100,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "IGN map",
+"category": "️ Accessories",
+"link": "",
+"price": 0,
+"weight": 95,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+},
+{
+"title": "Carnet & stylo",
+"category": "️ Accessories",
+"link": "",
+"price": 0,
+"weight": 150,
+"quantity": 1,
+"checked": false ,"notNeeded": false
+}
+]

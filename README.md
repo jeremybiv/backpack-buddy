@@ -1,4 +1,4 @@
-# backpack_buddy_json_persist
+# Backpack buddy MVP
 
 A new Flutter project - backpack buddy 
 

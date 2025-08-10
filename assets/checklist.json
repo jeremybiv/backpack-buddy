@@ -6,7 +6,7 @@
 "price": 179.99,
 "weight": 2780,
 "quantity": 1,
-"checked": false ,"notNeeded": false ,"notNeeded": false
+"checked": false ,"notNeeded": false
 },
 {
 "title": "2x 15L Compression bags",
@@ -39,22 +39,20 @@
 "title": "MT500 Poles",
 "category": "Poles",
 "link": "https://www.decathlon.fr/p/1-baton-reglage-rapide-et-precis-de-randonnee-mt500-rouge//R-p-173277", 
-"price": 17.99, "weight": 240, "quantity": 2, "checked": false ,"notNeeded": false ,"image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"
+"price": 17.99, "weight": 240, "quantity": 2, "checked": false ,"notNeeded": false
 },
-{ "title": "MT500 2P dome tent", "category": "Sleep system", "link": "https://www.decathlon.fr/p/tente-dome-de-trekking-2-places-mt500//R-p-310893", "price": 119.99, "weight": 2850, "quantity": 1, "checked": false ,"notNeeded": false ,"image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"},
-{ "title": "MT500 0°C sleeping bag", "category": "Sleep system", "link": "https://www.decathlon.fr/p/sac-de-couchage-de-trekking-mt500-0-c-synthetique//R-p-346447", 
-"price": 89.99, "weight": 1350, "quantity": 1, "checked": false ,"notNeeded": false ,"image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"},
-{ "title": "MT900 air insulated sleeping mat", "category": "Sleep system", "link": "", "price": 0, "weight": 615, "quantity": 1, "checked": false ,"notNeeded": false ,"image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"},
-{ "title": "MT500 Sit pad", "category": "Sleep system", "link": "", "price": 0, "weight": 60, "quantity": 1, "checked": false ,"notNeeded": false ,"image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"},
+{ "title": "MT500 2P dome tent", "category": "Sleep system", "link": "https://www.decathlon.fr/p/tente-dome-de-trekking-2-places-mt500//R-p-310893", "price": 119.99, "weight": 2850, "quantity": 1, "checked": false ,"notNeeded": false},
+{ "title": "MT500 0°C sleeping bag", "category": "Sleep system", "link": "https://www.decathlon.fr/p/sac-de-couchage-de-trekking-mt500-0-c-synthetique//R-p-346447" ,"price": 89.99, "weight": 1350, "quantity": 1, "checked": false ,"notNeeded": false },
+{ "title": "MT900 air insulated sleeping mat", "category": "Sleep system", "link": "", "price": 0, "weight": 615, "quantity": 1, "checked": false ,"notNeeded": false },
+{ "title": "MT500 Sit pad", "category": "Sleep system", "link": "", "price": 0, "weight": 60, "quantity": 1, "checked": false ,"notNeeded": false },
 {
     "title": "MT500 Portable Stove",
-    "category": "Cooking",
+    "category": "Cooking", 
     "link": "https://www.decathlon.fr/p/rechaud-a-gaz-portable-piezo-mt500/_/R-p-8540739",
     "price": 29.99,
     "weight": 85,
     "quantity": 1,
-    "checked": false ,"notNeeded": false,
-    "image": "https://contents.mediadecathlon.com/p8540739/8c4d0f2d8b13a1c65c555075e0c9362e/zoom/rechaud-a-gaz-portable-piezo-mt500.jpg"
+    "checked": false ,"notNeeded": false
 },
 {
 "title": "Gaz canister 230g",

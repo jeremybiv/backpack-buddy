@@ -26,7 +26,11 @@ class _PackingScreenState extends State<PackingScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final packedItems = widget.items.where((i) => i.checked).toList();
+    //final packedItems = widget.items.where((i) => !i.deleted).toList();
+    final packedItems = widget.items
+        .where((i) => i.notNeeded == false)
+        .toList();
+
     final groupedByCategory = <String, List<EquipmentItem>>{};
 
     for (var item in packedItems) {
@@ -92,7 +96,7 @@ class _PackingScreenState extends State<PackingScreen> {
             child: const Padding(
               padding: EdgeInsets.symmetric(vertical: 14.0),
               child: Text(
-                "Éditer la liste",
+                "Éditer",
                 style: TextStyle(fontSize: 16),
               ),
             ),

@@ -1,0 +1,103 @@
+[
+    {
+      "title": "Sac à dos trail léger 12L",
+      "category": "Sac / Vêtement",
+      "link": "https://www.decathlon.fr/p/sac-a-dos-trail-12l",
+      "price": 120.00,
+      "weight": 400,
+      "quantity": 1,
+      "checked": false,
+      "notNeeded": false
+    },
+    {
+      "title": "T-shirt trail respirant",
+      "category": "Vêtements",
+      "link": "https://www.decathlon.fr/p/t-shirt-trail-respirant",
+      "price": 30.00,
+      "weight": 120,
+      "quantity": 1,
+      "checked": false,
+      "notNeeded": false
+    },
+    {
+      "title": "Short trail léger",
+      "category": "Vêtements",
+      "link": "https://www.decathlon.fr/p/short-trail-leger",
+      "price": 25.00,
+      "weight": 100,
+      "quantity": 1,
+      "checked": false,
+      "notNeeded": false
+    },
+    {
+      "title": "Chaussures trail running",
+      "category": "Chaussures",
+      "link": "https://www.decathlon.fr/p/chaussures-trail-running",
+      "price": 140.00,
+      "weight": 300,
+      "quantity": 1,
+      "checked": false,
+      "notNeeded": false
+    },
+    {
+      "title": "Poche à eau 1L",
+      "category": "Hydratation",
+      "link": "https://www.decathlon.fr/p/poche-a-eau-1l",
+      "price": 30.00,
+      "weight": 150,
+      "quantity": 1,
+      "checked": false,
+      "notNeeded": false
+    },
+    {
+      "title": "Barres énergétiques (4 unités)",
+      "category": "Nutrition",
+      "link": "https://www.decathlon.fr/p/barres-energetiques",
+      "price": 8.00,
+      "weight": 160,
+      "quantity": 4,
+      "checked": false,
+      "notNeeded": false
+    },
+    {
+      "title": "Gels énergétiques (4 unités)",
+      "category": "Nutrition",
+      "link": "https://www.decathlon.fr/p/gels-energetiques",
+      "price": 10.00,
+      "weight": 160,
+      "quantity": 4,
+      "checked": false,
+      "notNeeded": false
+    },
+    {
+      "title": "Casquette légère",
+      "category": "Accessoires",
+      "link": "https://www.decathlon.fr/p/casquette-trail-leger",
+      "price": 15.00,
+      "weight": 50,
+      "quantity": 1,
+      "checked": false,
+      "notNeeded": false
+    },
+    {
+      "title": "Bâtons pliables légers (optionnels)",
+      "category": "Accessoires",
+      "link": "https://www.decathlon.fr/p/batons-trail-pliables",
+      "price": 30.00,
+      "weight": 250,
+      "quantity": 2,
+      "checked": false,
+      "notNeeded": false
+    },
+    {
+      "title": "Mini trousse premiers secours",
+      "category": "Sécurité & Santé",
+      "link": "https://www.decathlon.fr/p/trousse-premiers-secours-mini",
+      "price": 15.00,
+      "weight": 100,
+      "quantity": 1,
+      "checked": false,
+      "notNeeded": false
+    }
+  ]
+  

@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'services/equipment_service.dart';
 import 'screens/home_screen.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 void main() {
   runApp(

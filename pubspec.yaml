@@ -14,8 +14,10 @@ dependencies:
   shared_preferences: ^2.2.2
   url_launcher: ^6.3.2
   slider_button: ^2.1.0
+  vibration: 1.8.4
 
 flutter:
   uses-material-design: true
   assets:
     - assets/checklist.json
+    - assets/trail-1d-checklist.json
